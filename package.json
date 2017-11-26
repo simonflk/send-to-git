@@ -1,6 +1,6 @@
 {
   "name": "send-to-git",
-  "version": "1.0.0",
+  "version": "1.0.0-send-to-root.1",
   "description": "Add folders and their files to a git repo from anyplace, also keeps them in sync",
   "main": "build/index.js",
   "scripts": {
